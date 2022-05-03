@@ -1,0 +1,5 @@
+numero=int(input('Qual é o numero inteiro:'))
+a=bin(numero)
+b=oct(numero)
+c=hex(numero)
+print('O valor binario é {} o octal é {} e o hexadecimal é {}'.format(a,b,c))

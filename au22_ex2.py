@@ -1,0 +1,10 @@
+tupla='Santos','Atletico-MG','Corinthians','Cuiaba','Internacional','Avai','Bragantino','Palmeiras','Flamengo','Coritiba','São Paulo','Botafogo','Fluminense','America-MG','Ceara','Chapecoense','Athletico-PR','Atletico-GO','Goias','Juventude'
+print('.'*150)
+print(f'Os 5 primeiros sao:{tupla[ : 4]}')
+print('.'*150)
+print(f'Os 4 ultimos sao:{tupla[15 : ]}')
+print('.'*150)
+print('O time Chapecoense esta na',tupla.index('Chapecoense'),'posiçao')
+print('.'*150)
+print(f'{sorted(tupla)}')
+print('.'*150)

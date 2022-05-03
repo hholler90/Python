@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\aula\bin\Debug\net5.0\aula.exe
+C:\Users\Aluno\Desktop\aula\bin\Debug\net5.0\aula.deps.json
+C:\Users\Aluno\Desktop\aula\bin\Debug\net5.0\aula.runtimeconfig.json
+C:\Users\Aluno\Desktop\aula\bin\Debug\net5.0\aula.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\aula\bin\Debug\net5.0\aula.dll
+C:\Users\Aluno\Desktop\aula\bin\Debug\net5.0\ref\aula.dll
+C:\Users\Aluno\Desktop\aula\bin\Debug\net5.0\aula.pdb
+C:\Users\Aluno\Desktop\aula\obj\Debug\net5.0\aula.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\aula\obj\Debug\net5.0\aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\aula\obj\Debug\net5.0\aula.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\aula\obj\Debug\net5.0\aula.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\aula\obj\Debug\net5.0\aula.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\aula\obj\Debug\net5.0\aula.dll
+C:\Users\Aluno\Desktop\aula\obj\Debug\net5.0\ref\aula.dll
+C:\Users\Aluno\Desktop\aula\obj\Debug\net5.0\aula.pdb
+C:\Users\Aluno\Desktop\aula\obj\Debug\net5.0\aula.genruntimeconfig.cache
